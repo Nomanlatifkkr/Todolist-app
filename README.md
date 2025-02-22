@@ -1,4 +1,5 @@
-<body>
+<html>
+    <body>
     <h1>My Project</h1>
 
     <p>This is a brief description of my project.</p>
@@ -26,4 +27,6 @@
     <h2>License</h2>
     <p>This project is licensed under the [License Name] License.</p>
 
+
 </body>
+</body>html>
